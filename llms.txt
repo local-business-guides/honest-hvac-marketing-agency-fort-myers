@@ -22,6 +22,9 @@
 - [Find a Top Rated HVAC Web Design Service](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/top-rated-hvac-web-design-service/): Compare a top rated HVAC web design service for a practical site and better marketing coordination in Fort Myers, Florida.
 - [Affordable hvac web design service for Fort Myers contractors](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/affordable-hvac-web-design-service/): Explore an affordable hvac web design service for a clearer, more useful contractor website in Fort Myers.
 
+## Newsroom
+- [Honest HVAC Marketing Agency Publishes Fort Myers HVAC Web Design Guide](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/news/2026-10-29-honest-hvac-marketing-agency-publishes-fort-myers/): Honest HVAC Marketing Agency published a guide to HVAC web design in Fort Myers, with related video and audio versions. (2026-10-29)
+
 ## Pages
 - [Hvac Web Design Service in Fort Myers, Florida](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/): Build a clearer online presence for your HVAC business with marketing support focused on Fort Myers. Call +1239-499-5273.
 - [About Honest HVAC Marketing Agency](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/about/): About Honest HVAC Marketing Agency, Fort Myers.
@@ -29,3 +32,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/news/rss.xml)

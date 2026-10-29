@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/sitemap.xml
+Sitemap: https://local-business-guides.github.io/honest-hvac-marketing-agency-fort-myers/news-sitemap.xml
